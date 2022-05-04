@@ -14,5 +14,5 @@ You are first required to create a Google API Application and to give it Google 
 
 Congratulations, you now have permanent access to Google Calendar from your web app! Try the following pages to start managing the google account:
 
-- https://www.[yourdomain].it/add_event.php?title=YourTitle
-- https://www.[yourdomain].it/upcoming.php
+- Adding an event (make sure to change date): https://www.[yourdomain].it/add_event.php?title=YourTitle
+- Get upcoming events: https://www.[yourdomain].it/upcoming.php
